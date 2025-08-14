@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+numpy>=1.26,<3
+# faiss-cpu==1.8.0.post1  # optional, install for speedier search
+openai==1.46.0
+httpx==0.27.2
+aiofiles==24.1.0
+pypdf==4.3.1
